@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="states"
+        android:id="@+id/States1"/>
+        <item
+            android:title="Setting"
+            android:id="@+id/setting1"/>
+            <item
+                android:title="Logout"
+                android:id="@+id/logout1"/>
+</menu>
